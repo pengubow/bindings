@@ -3390,7 +3390,7 @@ class cocos2d {
 
 [[link(win, android)]]
 class DS_Dictionary {
-    DS_Dictionary() = m1 0x135e9c, imac 0x169200;
+    DS_Dictionary() = m1 0x135e9c, imac 0x169200, ios 0x1644e4;
     void addBoolValuesToMapForKey(gd::map<gd::string, bool>&, char const*, bool) = m1 0x13d518, imac 0x171590;
     void addBoolValuesToMapForKeySpecial(gd::map<gd::string, bool>&, char const*, bool) = m1 0x13d1dc, imac 0x171230;
     void checkCompatibility();
